@@ -1,0 +1,13 @@
+# Local application state and temporary files
+.obsidian/
+.stfolder/
+.windsurf/
+.devin/
+.claude/
+.DS_Store
+*.sync-conflict-*
+*.log
+*.tmp
+.env
+.env.*
+AGENTS.local.md
