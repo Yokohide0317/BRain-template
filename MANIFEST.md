@@ -1,10 +1,12 @@
 # 配布ファイル一覧
 
-この雛形は Markdown と `.gitignore` のみで構成します。資料の本文、添付ファイル、アプリの設定、認証情報、実行スクリプトは含めません。
+この雛形は Markdown、`.gitignore` と説明用の画像2点で構成します。資料の本文、添付ファイル、アプリの設定、認証情報、実行スクリプトは含めません。
 
 | パス | 用途 |
 | --- | --- |
 | `README.md` | 日本語の利用手引き |
+| `assets/brain-hero.png` | README のメインビジュアル |
+| `assets/brain-workflow.png` | 情報の整理と人による確認の流れを示す図 |
 | `AGENTS.md` | 共通の AI 入口 |
 | `CLAUDE.md` | Claude Code 用の入口 |
 | `.gitignore` | ローカルファイルの除外例 |

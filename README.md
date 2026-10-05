@@ -1,8 +1,12 @@
 # BRain — Building Reliable AI Notes
 
+![BRain のメインビジュアル。AI と一緒に記録を育て、人が確認する](assets/brain-hero.png)
+
 **AIと育てる、あなたの知識と作業の記憶。**
 
 BRain は、メモや仕事の記録を Markdown で整理し、AI と一緒に使うための空のテンプレートです。話題ごとに情報を分け、AI が見つけた学びは「候補」として残します。採用するかどうかは、あなたが決めます。Obsidian を使わなくても利用できます。
+
+![BRain の流れ：領域ごとに記録し、AI が学びを候補にまとめ、人が確認して採用する](assets/brain-workflow.png)
 
 ## こんなときに使えます
 
